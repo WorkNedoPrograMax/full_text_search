@@ -11,8 +11,7 @@ dependencies:
   meta: ^1.9.1
   sunny_dart: 
     path: /Users/ericm/aesthetika/checkout/SunnyApp/sunny_dart
-  dartxx: 
-    path: /Users/ericm/aesthetika/checkout/ericmartineau/dartxx
+  dartxx: ^0.5.5
   flutter: 
     sdk: flutter
 dev_dependencies: 
