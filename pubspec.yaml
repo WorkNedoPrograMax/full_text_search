@@ -13,7 +13,10 @@ dependencies:
     git:
       url: https://github.com/Acuari0/sunny_dart.git
       ref: master
-  dartxx: ^0.5.5
+  dartxx: 
+    git:
+      url: https://github.com/Acuari0/dartxx.git
+      ref: master
   flutter: 
     sdk: flutter
 dev_dependencies: 
