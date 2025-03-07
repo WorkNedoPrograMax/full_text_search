@@ -7,7 +7,7 @@ In this project I update dartxx for the people that use this package and need to
 
 ```yaml
 dependencies:
-  charts_flutter:
+  full_text_search:
     git:
       url: https://github.com/Acuari0/full_text_search.git
       ref: master
