@@ -15,8 +15,8 @@ dependencies:
       ref: master
   dartxx: 
     git:
-      url: https://github.com/Acuari0/dartxx.git
-      ref: master
+      url: https://github.com/WorkNedoPrograMax/dartxx.git
+      ref: a907d29e1fc09bbe6fd9d3ef3768240e5b1bfc98
   flutter: 
     sdk: flutter
 dev_dependencies: 
