@@ -11,8 +11,8 @@ dependencies:
   meta: ^1.9.1
   sunny_dart: 
     git:
-      url: https://github.com/Acuari0/sunny_dart.git
-      ref: master
+      url: https://github.com/WorkNedoPrograMax/sunny_dart.git
+      ref: f6654fdd2d98729cb6613aaab9a7f3e1b20d6af5
   dartxx: 
     git:
       url: https://github.com/WorkNedoPrograMax/dartxx.git
