@@ -12,7 +12,7 @@ dependencies:
   sunny_dart: 
     git:
       url: https://github.com/WorkNedoPrograMax/sunny_dart.git
-      ref: 6c5c3fd3f65b209cc3cd134deeac04425a117244
+      ref: 08828e41f059e283bdf5e34cd45718628438c6d6
   dartxx: 
     git:
       url: https://github.com/WorkNedoPrograMax/dartxx.git
